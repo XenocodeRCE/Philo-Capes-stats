@@ -1,4 +1,4 @@
-# Stats du CAPES externe de PHILO
+# Stats du CAPES / CAFEP externe de PHILO
 
 → Directement inspiré de : https://megamathsblog.blogspot.com/2021/12/statistiques-du-capes-externe-de.html
 
